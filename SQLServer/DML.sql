@@ -34,12 +34,3 @@ INSERT INTO Raca(Descricao, IdTipoDePet) VALUES
 ('Vira-lata', 2),
 ('Vira-lata', 1),
 ('Persa',3);
-
-
-SELECT * from Clinicas;
-SELECT * from Donos;
-SELECT * from TipoDePet;
-SELECT * from Veterinario;
-SELECT * from Atendimento;
-SELECT * from Pet;
-SELECT * from Raca;
